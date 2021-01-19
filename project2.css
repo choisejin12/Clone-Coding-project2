@@ -42,7 +42,7 @@ p:not(.text):not(.category){
 body{
   padding: 0;
   margin: 0;
-  background-image: url(./img/IMSI_Background.png);
+  background-image: url(IMSI_Background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
